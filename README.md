@@ -1,12 +1,13 @@
-<h3 align="center">Here something about me:</h3>
+### 👋 Welcome to my profile!
 
-- 🔭 I’m currently working at **gft.com as a Developer**
 
+Here something about me:
+
+
+- 🔭 I’m currently working at **[gft.com](https://gft.com/)** as a Developer
+- :muscle: I’m specialist in .NET and Cloud (AWS, Azure)
 - 💬 Ask me about **Development**
-
-- 📫 How to reach me **mfsanches@outlook.com**
-
-- ⚡ Come and see my repos **https://github.com/mfsanches?tab=repositories**
+- ⚡ Come and see [my repos](https://github.com/mfsanches?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
