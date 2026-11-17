@@ -18,6 +18,12 @@ I help companies take AI from prototype to production: secure, reliable and cost
 
 ---
 
+### 📂 Projects
+
+- **[rag-azure](https://github.com/mfsanches/rag-azure)**: Production-minded RAG on Azure: tenant isolation, managed identity and private networking, with the same infrastructure in Bicep and Terraform.
+
+---
+
 ### 📫 Let's talk
 
 - 💼 LinkedIn: [LINK](https://www.linkedin.com/in/matheus-faria-sanches-04133048/)
